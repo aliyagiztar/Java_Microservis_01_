@@ -1,0 +1,5 @@
+rootProject.name = 'Java_Microservis_01_'
+include 'ServiceA'
+include 'ServiceB'
+include 'ServiceC'
+
